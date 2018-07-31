@@ -13,7 +13,8 @@ This repo is a growing collection of competitive programming problems aimed to s
 ### Useful Links
 
 * [Codeforces: competitive programming resources](https://codeforces.com/blog/entry/23054)  
-* [Topcoder: data science tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)  
+* [Topcoder: data science tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/) 
+* [Algorithm Visualization](https://visualgo.net/en)   
 
 ### Books
 
