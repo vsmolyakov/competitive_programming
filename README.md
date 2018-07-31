@@ -12,8 +12,11 @@ This repo is a growing collection of competitive programming problems aimed to s
 
 ### Books
 
-*Steven Halim, "Competitive Programming", 3rd ed, 2013*  
-  
+* Steven Halim, "[Competitive Programming](https://cpbook.net/)", 3rd ed, 2013  
+* Steven Skiena and Miguel Revilla, "[Programming Challenges](https://www.amazon.com/gp/product/0387001638/)", 2013  
+* Steven Skiena, "[The Algorithm Design Manual](http://www.algorist.com/)", 2011  
+* CLRS, "[Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)", 2009  
+* Jon Kleinberg and Eva Tardos, "[Algorithm Design](https://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358)", 2005  
 
 ### Compiling
 
